@@ -18,7 +18,7 @@ Install the following software:
 
 * Java 8 or later
 * Maven (or Gradle if preferred)
-* Docker Desktop
+* Docker
 * Git
 
 ---
