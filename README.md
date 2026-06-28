@@ -117,7 +117,7 @@ If your queue manager or queue names differ, simply replace the values above.
 Execute:
 
 ```
-Producer.main()
+Run the `main()` method in `Producer.java`.
 ```
 
 Expected output:
@@ -138,7 +138,7 @@ Sent message:
 Execute:
 
 ```
-JmsConsumer.main()
+Run the `main()` method in `JmsConsumer.java`.
 ```
 
 Available commands:
